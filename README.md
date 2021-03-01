@@ -2,4 +2,4 @@
 
 ![Modelo Web](/src/assets/screen.png)
 
-##### una pequeña demostración de la vista de tarjetas utiñizando Bootstrap4
+##### una pequeña demostración de la vista de tarjetas utilizando Bootstrap4
